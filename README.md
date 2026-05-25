@@ -6,8 +6,11 @@ A console-based IPL Auction Management System developed in C using CSV file hand
 
 <p align="center">
   <img src="https://img.shields.io/badge/Language-C-blue?style=for-the-badge">
+  <br> </br>
   <img src="https://img.shields.io/badge/Project-DSA%20%26%20File%20Handling-orange?style=for-the-badge">
+    <br> </br>
   <img src="https://img.shields.io/badge/Storage-CSV-green?style=for-the-badge">
+    <br> </br>
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge">
 </p>
 
